@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+li {
+  list-style: none;
+}
+.container {
+  max-width: 920;
+  padding: 0 15px;
+  margin: 0px 34px;
+}
+.weather-app {
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 30px auto;
+}
+.temperature {
+  font-family: sans-serif;
+  font-size: 55px;
+  font-weight: bold;
+}
+.units {
+  vertical-align: top;
+}
