@@ -23,3 +23,14 @@ li {
 .units {
   vertical-align: top;
 }
+
+.weather-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weather-item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
